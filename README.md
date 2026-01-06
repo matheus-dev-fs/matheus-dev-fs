@@ -72,9 +72,3 @@ Minha bagagem de quase uma década em **Suporte Técnico e Hardware** me deu uma
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-dev-fs&layout=compact&theme=dracula"/>
   </a>
 </div>
-
----
-
-<p align="center">
-  <i>"A única maneira de fazer um ótimo trabalho é amar o que você faz."</i>
-</p>
