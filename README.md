@@ -61,14 +61,3 @@ Minha bagagem como autônomo em **Suporte Técnico** me deu uma base sólida em 
 * **O Desafio:** Criar uma interface reativa de alta complexidade.
 * **A Solução:** Uso avançado de **Reactive Forms**, **Custom Validators** e manipulação de fluxos assíncronos com **RxJS** para evitar memory leaks.
 * **Tech:** Angular 17, TypeScript, Tailwind CSS, Angular Material.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/matheus-dev-fs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-dev-fs&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-dev-fs&layout=compact&theme=dracula"/>
-  </a>
-</div>
