@@ -16,7 +16,7 @@
 
 Sou um desenvolvedor em formação com **perfil autodidata** e uma paixão por entender como as coisas funcionam. 
 
-Minha bagagem de quase uma década em **Suporte Técnico e Hardware** me deu uma base sólida em lógica e resolução de problemas. Hoje, aplico essa mentalidade analítica no código, criando soluções robustas e bem arquitetadas.
+Minha bagagem de quase uma década como autônomo em **Suporte Técnico** me deu uma base sólida em lógica e resolução de problemas. Hoje, aplico essa mentalidade analítica no código, criando soluções robustas e bem arquitetadas.
 
 * 🎓 Cursando **ADS na PUCPR**.
 * 💻 Foco atual: **Full Stack Web**.
