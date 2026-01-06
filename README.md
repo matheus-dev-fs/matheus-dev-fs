@@ -8,7 +8,6 @@
 
 <p align="center">
   <b>Estudante de Análise e Desenvolvimento de Sistemas @ PUCPR</b><br>
-  <i>Migrando de 9 anos de Troubleshooting em TI para Engenharia de Software.</i>
 </p>
 
 <br>
@@ -17,7 +16,7 @@
 
 Sou um desenvolvedor em formação com **perfil autodidata** e uma paixão por entender como as coisas funcionam "por baixo do capô". 
 
-Minha bagagem de quase uma década em **Suporte Técnico e Hardware** me deu uma base sólida em lógica e resolução de problemas (*troubleshooting*). Hoje, aplico essa mentalidade analítica no código, criando soluções robustas e bem arquitetadas.
+Minha bagagem de quase uma década em **Suporte Técnico e Hardware** me deu uma base sólida em lógica e resolução de problemas. Hoje, aplico essa mentalidade analítica no código, criando soluções robustas e bem arquitetadas.
 
 * 🎓 Cursando **ADS na PUCPR**.
 * 💻 Foco atual: **Full Stack Web**.
