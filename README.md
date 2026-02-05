@@ -51,13 +51,11 @@ Minha bagagem como autônomo em **Suporte Técnico** me deu uma base sólida em 
 ## 🏆 Projetos em Destaque
 
 ### 🐘 [Sistema de Gestão Veterinária (PHP Puro)](https://github.com/matheus-dev-fs/PUCPR-Veterinary-Clinic-Project-PHP)
-> *Engenharia de Software "Raiz"*
 * **O Desafio:** Criar um sistema completo **sem usar frameworks**.
 * **A Solução:** Implementei manualmente uma arquitetura **MVC**, com **Service Layer**, **Repository Pattern** e injeção de dependências.
 * **Tech:** PHP 8, MySQL, Composer, Hash (Bcrypt), CSRF Protection.
 
 ### 🅰️ [Formulário de Gestão de Usuários (Angular)](https://github.com/matheus-dev-fs/projeto-formulario-de-usuarios)
-> *Padrões de Mercado & Frontend Moderno*
 * **O Desafio:** Criar uma interface reativa de alta complexidade.
 * **A Solução:** Uso avançado de **Reactive Forms**, **Custom Validators** e manipulação de fluxos assíncronos com **RxJS** para evitar memory leaks.
 * **Tech:** Angular 17, TypeScript, Tailwind CSS, Angular Material.
