@@ -27,7 +27,7 @@ Minha bagagem como autônomo em **Suporte Técnico** me deu uma base sólida em 
 
 ## 🛠️ Tech Stack
 
-### O que eu já construo:
+### O que tenho conhecimento:
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
@@ -39,7 +39,7 @@ Minha bagagem como autônomo em **Suporte Técnico** me deu uma base sólida em 
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
-### O que estou aprendendo agora (Foco de Estudo):
+### O que estou aprendendo agora:
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
