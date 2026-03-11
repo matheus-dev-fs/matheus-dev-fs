@@ -21,7 +21,7 @@ Minha bagagem como autônomo em **Suporte Técnico** me deu uma base sólida em 
 * 🎓 Cursando **ADS na PUCPR**.
 * 💻 Foco atual: **Full Stack Web**.
 * 🎯 Objetivo: Estágio em Desenvolvimento de Software.
-* 🧠 Atualmente estudando: **React.js, Node.js e Ecossistema JavaScript**.
+* 🧠 Atualmente estudando: **React.js, Node.js e Docker**.
 
 ---
 
@@ -37,12 +37,12 @@ Minha bagagem como autônomo em **Suporte Técnico** me deu uma base sólida em 
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
 ### O que estou aprendendo agora:
 <div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
