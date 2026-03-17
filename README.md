@@ -2,7 +2,7 @@
   <tr>
     <td width="45%">
       <img
-        src="https://mfiles.alphacoders.com/101/thumb-1920-1014407.png"
+        src="left-image.png"
         alt="Imagem lateral"
         width="100%"
       />
