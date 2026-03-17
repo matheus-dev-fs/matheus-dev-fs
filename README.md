@@ -1,61 +1,42 @@
-<h1 align="center">Olá, eu sou o Matheus Henrique de Matos! 👋</h1>
+<h1 align="center">Olá, eu sou o Matheus!</h1>
 
-<p align="center">
+<h3 align="center">Trazendo uma sólida bagagem de Troubleshooting em TI para a Engenharia de Software.</h3>
+
+<p align="left">
   <a href="mailto:matheusmks10@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email do Matheus" />
   </a>
-</p>
-
-<p align="center">
-  <b>Estudante de Análise e Desenvolvimento de Sistemas @ PUCPR</b><br>
 </p>
 
 <br>
 
-## 🚀 Sobre Mim
+- **Atualmente trabalhando em:** Projetos de arquitetura robusta com PHP (MVC) e Angular, com foco em código limpo e padrões de projeto.
+- **Atualmente aprendendo:** Aprofundando estudos no ecossistema Javascript com **React.js e Node.js** (e brevemente, NestJS).
+- **Formação:** Estudando Análise e Desenvolvimento de Sistemas na PUCPR.
+- **Buscando colaborar em:** Desafios de back-end corporativos e soluções full stack.
+- **Buscando ajuda com:** Melhores práticas de DevOps, CI/CD e deploy em nuvem (Cloud).
+- **Pergunte-me sobre:** Arquitetura de software, POO, Angular, PHP, Java e diagnóstico avançado de hardware.
+- **Sobre minha trajetória:** Atuei como técnico autônomo de hardware por quase uma década. Hoje, aplico minha capacidade analítica de investigar falhas (*troubleshooting*) para solucionar bugs complexos no código.
 
-Sou um desenvolvedor em formação com **perfil autodidata** e uma paixão por entender como as coisas funcionam. 
+<br>
 
-Minha bagagem como autônomo em **Suporte Técnico** me deu uma base sólida em lógica e resolução de problemas. Hoje, aplico essa mentalidade analítica no código, criando soluções robustas e bem arquitetadas.
+<h3 align="left">Linguagens e Ferramentas:</h3>
 
-* 🎓 Cursando **ADS na PUCPR**.
-* 💻 Foco atual: **Full Stack Web**.
-* 🎯 Objetivo: Estágio em Desenvolvimento de Software.
-* 🧠 Atualmente estudando: **React.js, Node.js e Docker**.
-
----
-
-## 🛠️ Tech Stack
-
-### O que tenho conhecimento:
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div>
-
-### O que estou aprendendo agora:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-</div>
-
----
-
-## 🏆 Projetos em Destaque
-
-### 🐘 [Sistema de Gestão Veterinária (PHP Puro)](https://github.com/matheus-dev-fs/PUCPR-Veterinary-Clinic-Project-PHP)
-* **O Desafio:** Criar um sistema completo **sem usar frameworks**.
-* **A Solução:** Implementei manualmente uma arquitetura **MVC**, com **Service Layer**, **Repository Pattern** e injeção de dependências.
-* **Tech:** PHP 8, MySQL, Composer, Hash (Bcrypt), CSRF Protection.
-
-### 🅰️ [Formulário de Gestão de Usuários (Angular)](https://github.com/matheus-dev-fs/projeto-formulario-de-usuarios)
-* **O Desafio:** Criar uma interface reativa de alta complexidade.
-* **A Solução:** Uso avançado de **Reactive Forms**, **Custom Validators** e manipulação de fluxos assíncronos com **RxJS** para evitar memory leaks.
-* **Tech:** Angular 17, TypeScript, Tailwind CSS, Angular Material.
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <br><br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <br><br>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
