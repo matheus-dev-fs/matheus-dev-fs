@@ -4,7 +4,7 @@
       <img
         src="./image2.png"
         alt="Imagem lateral"
-        style="display:block; width:100%; height:1200px;"
+        style="display:block; height: 980px;"
       />
     </td>
     <td width="58%" valign="top">
