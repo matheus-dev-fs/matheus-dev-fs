@@ -1,24 +1,11 @@
 <table>
   <tr>
-    <td width="45%" style="padding:0;">
-  <div style="height:100%; min-height:720px; overflow:hidden;">
-    <img
-      src="left-image.png"
-      alt="Imagem lateral"
-      style="width:100%; height:100%; object-fit:cover; object-position:center; display:block;"
-    />
-  </div>
-</td>
+    <td width="42%" valign="top">
+      <img src="left-image.png" alt="Imagem lateral" width="100%" />
+    </td>
+    <td width="58%" valign="top">
 
 # Matheus Henrique
-
-Estudante de Análise e Desenvolvimento de Sistemas @ PUCPR.  
-
-## Sobre Mim
-
-Sou um desenvolvedor em formação com **perfil autodidata**.
-
-Minha bagagem de quase uma década em **Suporte Técnico e Hardware** me deu uma base sólida em lógica e resolução de problemas. Hoje, aplico essa mentalidade no código.
 
 - Cursando **ADS na PUCPR**
 - Foco atual: **Full Stack Web**
@@ -51,5 +38,6 @@ Minha bagagem de quase uma década em **Suporte Técnico e Hardware** me deu uma
 
 - Email: [matheusmks10@gmail.com](mailto:matheusmks10@gmail.com)
 
+    </td>
   </tr>
 </table>
