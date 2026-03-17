@@ -11,7 +11,9 @@
 
 # Matheus Henrique de Matos
 
-Desenvolvedor Web Full Stack em formação pela PUCPR. Sou um profissional adaptável e focado nos fundamentos da Engenharia de Software. Meu foco real está em aplicar arquitetura em camadas, padrões de projeto e código limpo para construir soluções robustas. Atualmente, busco uma oportunidade de estágio em Desenvolvimento de Software para agregar com resolução de problemas e continuar minha evolução técnica.
+***Desenvolvedor Web Full Stack em formação pela PUCPR.***
+
+Sou um profissional adaptável e focado nos fundamentos da Engenharia de Software. Meu foco real está em aplicar arquitetura em camadas, padrões de projeto e código limpo para construir soluções robustas. Atualmente, busco uma oportunidade de estágio em Desenvolvimento de Software para agregar com resolução de problemas e continuar minha evolução técnica.
 
 ## Tecnologias
 
