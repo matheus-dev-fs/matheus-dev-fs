@@ -1,13 +1,11 @@
 <table>
   <tr>
-    <td
-      width="42%"
-      valign="top"
-      height="1200"
-      background="./image2.png"
-      style="background: url('./image2.png') center / cover no-repeat; padding: 0;"
-    >
-      <img src="./image2.png" alt="Imagem lateral" width="0" height="1200" style="display:block;" />
+    <td width="42%" valign="top" style="padding:0; margin:0;">
+      <img
+        src="./image2.png"
+        alt="Imagem lateral"
+        style="display:block; width:100%; height:1200px;"
+      />
     </td>
     <td width="58%" valign="top">
 
