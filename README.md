@@ -1,13 +1,13 @@
 <table>
   <tr>
-    <td width="42%" valign="top" style="padding:0; margin:0;">
+    <td width="50%" valign="top" style="padding:0; margin:0;">
       <img
-        src="./image2.png"
+        src="./image3.png"
         alt="Imagem lateral"
-        style="display:block; height: 980px;"
+        style="display:block; height: auto;"
       />
     </td>
-    <td width="58%" valign="top">
+    <td width="auto" valign="top">
 
 # Matheus Henrique
 
@@ -15,33 +15,19 @@
 - Foco atual: **Full Stack Web**
 - Objetivo: **Estágio em Desenvolvimento de Software**
 
-## Tech Stack
+## Tecnologias
 
-### O que eu já tenho conhecimento
 - **Linguagens e frameworks:** PHP, Angular, TypeScript, Java, React.js, Node.js
 - **Banco de dados:** MySQL, PostgreSQL
 - **Estilo/UI:** Tailwind CSS
 - **Ferramentas e ambiente:** Git, Linux
 
-### O que estou aprendendo agora (foco de estudo)
+### Estudando
 - Docker
-
-## Projetos em Destaque
-
-### [Sistema de Gestão Veterinária (PHP Puro)](https://github.com/matheus-dev-fs/PUCPR-Veterinary-Clinic-Project-PHP)
-- **Desafio:** Criar um sistema completo sem uso de frameworks
-- **Solução:** Arquitetura **MVC** manual com **Service Layer**, **Repository Pattern** e injeção de dependências
-- **Tech:** PHP 8, MySQL, Composer, Hash (Bcrypt), CSRF Protection
-
-### [Formulário de Gestão de Usuários (Angular)](https://github.com/matheus-dev-fs/projeto-formulario-de-usuarios)
-- **Desafio:** Construir interface reativa de alta complexidade
-- **Solução:** Uso de **Reactive Forms**, **Custom Validators** e fluxos assíncronos com **RxJS** para evitar memory leaks
-- **Tech:** Angular 17, TypeScript, Tailwind CSS, Angular Material
 
 ## Contato
 
 - Email: [matheusmks10@gmail.com](mailto:matheusmks10@gmail.com)
-
     </td>
   </tr>
 </table>
