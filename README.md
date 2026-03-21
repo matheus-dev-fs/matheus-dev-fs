@@ -24,7 +24,7 @@ Sou um profissional adaptável e focado nos fundamentos da Engenharia de Softwar
 
 - Email: [matheusmks10@gmail.com](mailto:matheusmks10@gmail.com)
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-dev-fs&layout=compact&theme=radical&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-dev-fs&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
     </td>
   </tr>
 </table>
